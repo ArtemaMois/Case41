@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@700&family=Orbitron:wght@600&display=swap');
+
+body{
+    background-color: rgb(0, 0, 0);
+    font-family: 'Martian Mono', monospace;
+    font-size: 30px;
+    color: #fff;
+}
+.navigation{
+    height: 100px;
+    display: flex;
+    padding: 0px 60px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(0, 0, 0);
+    border: 3px solid #58c4ca;
+    border-radius: 15px;
+    color: rgb(78, 170, 170);
+    box-shadow: 0px 8px 20px 0 rgb(9, 9, 9);
+}
+
+.main {
+    font-size: 20px;
+    line-height: 32px;
+}
